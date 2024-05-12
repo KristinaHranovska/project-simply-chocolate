@@ -1,13 +1,15 @@
-import "./shared/styles/variables.scss";
-import "./shared/styles/breakpoints.scss";
-import "./shared/styles/colors.scss";
-import "./shared/styles/mixins.scss";
-import "./shared/styles/base.scss";
+import './shared/styles/index';
+
+// import { MainPage } from "./pages";
+// import { SharedLayout } from "./shared/components";
 
 const App = () => {
   return (
     <>
-      <h1>Vite + React</h1>
+      <h1>Hello</h1>
+      {/* <SharedLayout>
+        <MainPage />
+      </SharedLayout> */}
     </>
   );
 };
