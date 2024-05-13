@@ -1,19 +1,19 @@
 const dbCategories = [
     {
-        key: 'honey',
-        name: 'Мед'
+        key: 'dark',
+        name: 'Dark chocolate'
     },
     {
-        key: 'honey with nuts',
-        name: 'Мед з горіхами'
+        key: 'gift',
+        name: 'Gift box'
     },
     {
-        key: 'honeycombs',
-        name: 'Стільники'
+        key: 'milk',
+        name: 'Milk chocolate'
     },
     {
-        key: 'pollen',
-        name: 'Пилок'
+        key: 'white',
+        name: 'White chocolate'
     },
 ];
 
