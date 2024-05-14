@@ -1,26 +1,44 @@
-import subscribe from './subscribe.webp'
-import semi from './semi.webp'
-import popup from './popup.webp'
+import big from './big.webp'
+import chef from './chef.webp'
+import popupSubscribe from './popupSubscribe.webp'
 import milk from './milk.webp'
 import nuts from './nuts.webp'
 import milkChocolate from './milkChocolate.webp'
-import hero from './hero.webp'
-import darkChocolate from './darkChocolate.webp'
-import chocolateWithFruits from './chocolateWithFruits.webp'
-import chocolateWithNuts from './chocolateWithNuts.webp'
+import heroSlideFive from './heroSlideFive.webp'
+import heroSlideFour from './heroSlideFour.webp'
+import heroSlideOne from './heroSlideOne.webp'
+import heroSlideTree from './heroSlideThree.webp'
+import heroSlideTwo from './heroSlideTwo.webp'
+import line from './line.webp'
+import lineDown from './lineDown.webp'
+import lineUp from './lineUp.webp'
+import shef from './shef.webp'
+import smallFour from './smallFour.webp'
+import smallOne from './smallOne.webp'
+import smallThree from './smallThree.webp'
+import smallTwo from './smallTwo.webp'
 
 
 const imagesDesktop1x = {
-    subscribe,
-    semi,
-    popup,
+    big,
+    chef,
+    popupSubscribe,
     milk,
     nuts,
     milkChocolate,
-    hero,
-    darkChocolate,
-    chocolateWithFruits,
-    chocolateWithNuts
+    heroSlideFive,
+    heroSlideFour,
+    heroSlideOne,
+    heroSlideTree,
+    heroSlideTwo,
+    line,
+    lineDown,
+    lineUp,
+    shef,
+    smallFour,
+    smallOne,
+    smallThree,
+    smallTwo
 }
 
 export default imagesDesktop1x;

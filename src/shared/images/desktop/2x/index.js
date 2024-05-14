@@ -1,26 +1,44 @@
-import subscribe2x from './subcribe2x.webp'
-import semi2x from './semi2x.webp'
-import popup2x from './popup2x.webp'
+import big2x from './big2x.webp'
+import chef2x from './chef2x.webp'
+import popupSubscribe2x from './popupSubscribe2x.webp'
 import milk2x from './milk2x.webp'
 import nuts2x from './nuts2x.webp'
 import milkChocolate2x from './milkChocolate2x.webp'
-import hero2x from './hero2x.webp'
-import darkChocolate2x from './darkChocolate2x.webp'
-import chocolateWithFruits2x from './chocolateWithFruits2x.webp'
-import chocolateWithNuts2x from './chocolateWithNuts2x.webp'
+import heroSlideFive2x from './heroSlideFive2x.webp'
+import heroSlideFour2x from './heroSlideFour2x.webp'
+import heroSlideOne2x from './heroSlideOne2x.webp'
+import heroSlideTree2x from './heroSlideThree2x.webp'
+import heroSlideTwo2x from './heroSlideTwo2x.webp'
+import line2x from './line2x.webp'
+import lineDown2x from './lineDown2x.webp'
+import lineUp2x from './lineUp2x.webp'
+import shef2x from './shef2x.webp'
+import smallFour2x from './smallFour2x.webp'
+import smallOne2x from './smallOne2x.webp'
+import smallThree2x from './smallThree2x.webp'
+import smallTwo2x from './smallTwo2x.webp'
 
 
 const imagesDesktop2x = {
-    subscribe2x,
-    semi2x,
-    popup2x,
+    big2x,
+    chef2x,
+    popupSubscribe2x,
     milk2x,
     nuts2x,
     milkChocolate2x,
-    hero2x,
-    darkChocolate2x,
-    chocolateWithFruits2x,
-    chocolateWithNuts2x
+    heroSlideFive2x,
+    heroSlideFour2x,
+    heroSlideOne2x,
+    heroSlideTree2x,
+    heroSlideTwo2x,
+    line2x,
+    lineDown2x,
+    lineUp2x,
+    shef2x,
+    smallFour2x,
+    smallOne2x,
+    smallThree2x,
+    smallTwo2x
 }
 
 export default imagesDesktop2x;
