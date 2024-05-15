@@ -1,13 +1,13 @@
-import { Footer } from 'modules/footer';
+// import { Footer } from 'modules/footer';
+import { Header } from 'modules/header';
 import { Suspense } from 'react';
-import { Header } from '../../../modules/header/component/Header/Header';
 
 const SharedLayout = ({ children }) => {
   return (
     <>
       <Header />
       <Suspense fallback={null}>{children}</Suspense>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };
