@@ -1,5 +1,4 @@
-// import { Footer } from 'modules/footer';
-import { Header } from 'modules/header';
+import { Header } from '@modules/header';
 import { Suspense } from 'react';
 
 const SharedLayout = ({ children }) => {
