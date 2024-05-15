@@ -7,10 +7,11 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      modules: '/src/modules',
-      pages: '/src/pages',
-      shared: '/src/shared',
-      helpers: '/src/helpers',
+      // Змініть абсолютні шляхи на псевдоніми або абсолютні шляхи відносно кореневого каталогу
+      '@modules': '/src/modules',
+      '@pages': '/src/pages',
+      '@shared': '/src/shared',
+      '@helpers': '/src/helpers',
     },
   },
   css: {
