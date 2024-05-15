@@ -1,6 +1,6 @@
-import { Footer } from "modules/footer";
-import { Header } from "modules/header";
-import { Suspense } from "react";
+import { Footer } from 'modules/footer';
+import { Suspense } from 'react';
+import { Header } from '../../../modules/header/component/Header/Header';
 
 const SharedLayout = ({ children }) => {
   return (
